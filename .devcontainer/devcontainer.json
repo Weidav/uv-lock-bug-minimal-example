@@ -1,9 +1,0 @@
-{
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {
-    "ghcr.io/devcontainer-community/devcontainer-features/astral.sh-uv:1": {
-			"shellautocompletion": true,
-			"version": "0.10.8"
-		}
-  }
-}
